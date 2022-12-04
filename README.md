@@ -13,9 +13,9 @@ The data used in this project is provided by The World Bank. It contains both na
 
 ## Table of Contents
 
-1. dataset file contains the information of the data to answer the questions
+1. international_debt.csv file contains the information about the data to answer the questions.
 
-2. notebook.ipynb file is the jupyter notebbok file which is used to run the SQL queries.
+2. notebook.ipynb file is the jupyter notebbok file (we can see SQL queries and explaination for each question).
 
 ## Project Tasks
 
